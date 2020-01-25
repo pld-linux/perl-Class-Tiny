@@ -4,7 +4,6 @@
 #
 %define		pdir	Class
 %define		pnam	Tiny
-%include	/usr/lib/rpm/macros.perl
 Summary:	Class::Tiny - Minimalist class construction
 Summary(pl.UTF-8):	Class::Tiny - minimalistyczne tworzenie klas
 Name:		perl-Class-Tiny
